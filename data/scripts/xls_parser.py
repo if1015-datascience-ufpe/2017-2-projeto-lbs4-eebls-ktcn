@@ -4,15 +4,14 @@ import xlrd
 import unicodedata
 import pprint
 import csv
-import os
 
-path_to_xls = '/home/joaoluiz/Documents/Cadeiras/TAIA/project/2017-2-projeto-lbs4-eebls-ktcn/data/censo_2000_pe/indicadores_sociais_pe/xls/tab04.xls'
+path_to_xls = '/home/joaoluiz/Documents/Cadeiras/TAIA/project/2017-2-projeto-lbs4-eebls-ktcn/data/censo_2000_pe/indicadores_sociais_pe/xls/tab17.xls'
 folder = '/home/joaoluiz/Documents/Cadeiras/TAIA/project/2017-2-projeto-lbs4-eebls-ktcn/data/censo_2000_pe/indicadores_sociais_pe/csv/'
 multi = False
-START_ROW_NUMBER = 2
-END_ROW_NUMBER = 5
-START_ROW = 14
-TITLE = 'domicilios_particulares_permanentes'
+START_ROW_NUMBER = 3
+END_ROW_NUMBER = 6
+START_ROW = 15
+TITLE = 'proporcao_de_domicilios_com_criancas_de_ate_14_anos_de_idade'
 book = xlrd.open_workbook(path_to_xls)
 sheet = book.sheet_by_index(0)
 
