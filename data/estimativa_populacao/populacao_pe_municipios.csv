@@ -1,186 +1,186 @@
-municipio,pop
-Abreu e Lima,83486
-Afogados da Ingazeira,34524
-Afrânio,14227
-Agrestina,18713
-Água Preta,25353
-Águas Belas,34424
-Alagoinha,11816
-Aliança,36452
-Altinho,20504
-Amaraji,20905
-Angelim,8028
-Araçoiaba,13092
-Araripina,65941
-Arcoverde,60653
-Barra de Guabiraba,11252
-Barreiros,36867
-Belém de Maria,15478
-Belém de São Francisco,20407
-Belo Jardim,73253
-Betânia,10262
-Bezerros,52597
-Bodocó,24427
-Bom Conselho,40523
-Bom Jardim,38598
-Bonito,33761
-Brejão,7778
-Brejinho,6799
-Brejo da Madre de Deus,37837
-Buenos Aires,12997
-Buíque,38601
-Cabo de Santo Agostinho,152863
-Cabrobó,27549
-Cachoeirinha,15294
-Caetés,18963
-Calçado,11400
-Calumbi,7204
-Camaragibe,121441
-Camocim de São Félix,14733
-Camutanga,7959
-Canhotinho,22206
-Capoeiras,19071
-Carnaíba,17811
-Carnaubeira da Penha,10985
-Carpina,55233
-Caruaru,248110
-Casinhas,12607
-Catende,30825
-Cedro,7993
-Chã de Alegria,10759
-Chã Grande,16181
-Condado,21718
-Correntes,19102
-Cortês,14399
-Cumaru,23794
-Cupira,23439
-Custódia,26435
-Dormentes,13577
-Escada,59261
-Exu,30658
-Feira Nova,17935
-Fernando de Noronha,2033
-Ferreiros,9646
-Flores,20032
-Floresta,24435
-Frei Miguelinho,11942
-Gameleira,23108
-Garanhuns,116027
-Glória do Goitá,27985
-Goiana,69454
-Granito,5872
-Gravatá,61825
-Iati,15156
-Ibimirim,24384
-Ibirajuba,7373
-Igarassu,79163
-Iguaraci,11479
-Inajá,10639
-Ingazeira,4795
-Ipojuca,52622
-Ipubi,21631
-Itacuruba,4021
-Itaíba,23496
-Ilha de Itamaracá,15058
-Itambé,33146
-Itapetim,15018
-Itapissuma,20789
-Itaquitinga,14292
-Jaboatão dos Guararapes,567728
-Jaqueira,10914
-Jataúba,18220
-Jatobá,11824
-João Alfredo,24604
-Joaquim Nabuco,13378
-Jucati,9454
-Jupi,11552
-Jurema,12367
-Lagoa do Carro,11942
-Lagoa do Itaenga,19210
-Lagoa do Ouro,10504
-Lagoa dos Gatos,14334
-Lagoa Grande,18722
-Lajedo,31731
-Limoeiro,57755
-Macaparana,24373
-Machados,10482
-Manari,11731
-Maraial,11803
-Mirandiba,12428
-Moreilândia,13796
-Moreno,41276
-Nazaré da Mata,28723
-Olinda,356418
-Orobó,22606
-Orocó,10631
-Ouricuri,46821
-Palmares,55646
-Palmeirina,9781
-Panelas,24410
-Paranatama,13307
-Parnamirim,18438
-Passira,26597
-Paudalho,42111
-Paulista,253149
-Pedra,19043
-Pesqueira,53556
-Petrolândia,23043
-Petrolina,216622
-Poção,11264
-Pombos,22273
-Primavera,10717
-Quipapá,18480
-Quixabá,6798
-Recife,1388193
-Riacho das Almas,15979
-Ribeirão,39363
-Rio Formoso,20528
-Sairé,14589
-Salgadinho,5867
-Salgueiro,50899
-Saloá,15596
-Sanharó,17297
-Santa Cruz,11241
-Santa Cruz da Baixa Verde,10608
-Santa Cruz do Capibaribe,51286
-Santa Filomena,8969
-Santa Maria da Boa Vista,34594
-Santa Maria do Cambucá,11621
-Santa Terezinha,9437
-São Benedito do Sul,12016
-São Bento do Una,48837
-São Caitano,31477
-São João,18183
-São Joaquim do Monte,20364
-São José da Coroa Grande,14312
-São José do Belmonte,31275
-São José do Egito,28955
-São Lourenço da Mata,92706
-São Vicente Ferrer,16658
-Serra Talhada,67292
-Serrita,15620
-Sertânia,28162
-Sirinhaém,30725
-Solidão,5174
-Surubim,46600
-Tabira,23774
-Tacaimbó,10703
-Tacaratu,15418
-Tamandaré,15976
-Taquaritinga do Norte,20371
-Terezinha,6044
-Terra Nova,7261
-Timbaúba,55759
-Toritama,20139
-Tracunhaém,12888
-Trindade,20062
-Triunfo,13918
-Tupanatinga,19305
-Tuparetama,8504
-Venturosa,14200
-Verdejante,8642
-Vertente do Lério,8965
-Vertentes,12376
-Vicência,25646
-Vitória de Santo Antão,114449
-Xexéu,14235
+,municipio,pop
+0,Abreu e Lima,83486
+1,Afogados da Ingazeira,34524
+2,Afranio,14227
+3,Agrestina,18713
+4,Agua Preta,25353
+5,Aguas Belas,34424
+6,Alagoinha,11816
+7,Alianca,36452
+8,Altinho,20504
+9,Amaraji,20905
+10,Angelim,8028
+11,Aracoiaba,13092
+12,Araripina,65941
+13,Arcoverde,60653
+14,Barra de Guabiraba,11252
+15,Barreiros,36867
+16,Belem de Maria,15478
+17,Belem de Sao Francisco,20407
+18,Belo Jardim,73253
+19,Betania,10262
+20,Bezerros,52597
+21,Bodoco,24427
+22,Bom Conselho,40523
+23,Bom Jardim,38598
+24,Bonito,33761
+25,Brejao,7778
+26,Brejinho,6799
+27,Brejo da Madre de Deus,37837
+28,Buenos Aires,12997
+29,Buique,38601
+30,Cabo de Santo Agostinho,152863
+31,Cabrobo,27549
+32,Cachoeirinha,15294
+33,Caetes,18963
+34,Calcado,11400
+35,Calumbi,7204
+36,Camaragibe,121441
+37,Camocim de Sao Felix,14733
+38,Camutanga,7959
+39,Canhotinho,22206
+40,Capoeiras,19071
+41,Carnaiba,17811
+42,Carnaubeira da Penha,10985
+43,Carpina,55233
+44,Caruaru,248110
+45,Casinhas,12607
+46,Catende,30825
+47,Cedro,7993
+48,Cha de Alegria,10759
+49,Cha Grande,16181
+50,Condado,21718
+51,Correntes,19102
+52,Cortes,14399
+53,Cumaru,23794
+54,Cupira,23439
+55,Custodia,26435
+56,Dormentes,13577
+57,Escada,59261
+58,Exu,30658
+59,Feira Nova,17935
+60,Fernando de Noronha,2033
+61,Ferreiros,9646
+62,Flores,20032
+63,Floresta,24435
+64,Frei Miguelinho,11942
+65,Gameleira,23108
+66,Garanhuns,116027
+67,Gloria do Goita,27985
+68,Goiana,69454
+69,Granito,5872
+70,Gravata,61825
+71,Iati,15156
+72,Ibimirim,24384
+73,Ibirajuba,7373
+74,Igarassu,79163
+75,Iguaraci,11479
+76,Inaja,10639
+77,Ingazeira,4795
+78,Ipojuca,52622
+79,Ipubi,21631
+80,Itacuruba,4021
+81,Itaiba,23496
+82,Ilha de Itamaraca,15058
+83,Itambe,33146
+84,Itapetim,15018
+85,Itapissuma,20789
+86,Itaquitinga,14292
+87,Jaboatao dos Guararapes,567728
+88,Jaqueira,10914
+89,Jatauba,18220
+90,Jatoba,11824
+91,Joao Alfredo,24604
+92,Joaquim Nabuco,13378
+93,Jucati,9454
+94,Jupi,11552
+95,Jurema,12367
+96,Lagoa do Carro,11942
+97,Lagoa do Itaenga,19210
+98,Lagoa do Ouro,10504
+99,Lagoa dos Gatos,14334
+100,Lagoa Grande,18722
+101,Lajedo,31731
+102,Limoeiro,57755
+103,Macaparana,24373
+104,Machados,10482
+105,Manari,11731
+106,Maraial,11803
+107,Mirandiba,12428
+108,Moreilandia,13796
+109,Moreno,41276
+110,Nazare da Mata,28723
+111,Olinda,356418
+112,Orobo,22606
+113,Oroco,10631
+114,Ouricuri,46821
+115,Palmares,55646
+116,Palmeirina,9781
+117,Panelas,24410
+118,Paranatama,13307
+119,Parnamirim,18438
+120,Passira,26597
+121,Paudalho,42111
+122,Paulista,253149
+123,Pedra,19043
+124,Pesqueira,53556
+125,Petrolandia,23043
+126,Petrolina,216622
+127,Pocao,11264
+128,Pombos,22273
+129,Primavera,10717
+130,Quipapa,18480
+131,Quixaba,6798
+132,Recife,1388193
+133,Riacho das Almas,15979
+134,Ribeirao,39363
+135,Rio Formoso,20528
+136,Saire,14589
+137,Salgadinho,5867
+138,Salgueiro,50899
+139,Saloa,15596
+140,Sanharo,17297
+141,Santa Cruz,11241
+142,Santa Cruz da Baixa Verde,10608
+143,Santa Cruz do Capibaribe,51286
+144,Santa Filomena,8969
+145,Santa Maria da Boa Vista,34594
+146,Santa Maria do Cambuca,11621
+147,Santa Terezinha,9437
+148,Sao Benedito do Sul,12016
+149,Sao Bento do Una,48837
+150,Sao Caitano,31477
+151,Sao Joao,18183
+152,Sao Joaquim do Monte,20364
+153,Sao Jose da Coroa Grande,14312
+154,Sao Jose do Belmonte,31275
+155,Sao Jose do Egito,28955
+156,Sao Lourenco da Mata,92706
+157,Sao Vicente Ferrer,16658
+158,Serra Talhada,67292
+159,Serrita,15620
+160,Sertania,28162
+161,Sirinhaem,30725
+162,Solidao,5174
+163,Surubim,46600
+164,Tabira,23774
+165,Tacaimbo,10703
+166,Tacaratu,15418
+167,Tamandare,15976
+168,Taquaritinga do Norte,20371
+169,Terezinha,6044
+170,Terra Nova,7261
+171,Timbauba,55759
+172,Toritama,20139
+173,Tracunhaem,12888
+174,Trindade,20062
+175,Triunfo,13918
+176,Tupanatinga,19305
+177,Tuparetama,8504
+178,Venturosa,14200
+179,Verdejante,8642
+180,Vertente do Lerio,8965
+181,Vertentes,12376
+182,Vicencia,25646
+183,Vitoria de Santo Antao,114449
+184,Xexeu,14235
